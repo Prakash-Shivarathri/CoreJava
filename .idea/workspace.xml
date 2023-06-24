@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57c8d0b-8b96-476c-bfd6-7692852e38dd" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Threads/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/BeforeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/FunctionEaxmple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +49,33 @@
       <recent name="StreamsExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadDemo">
+  <component name="RunManager" selected="Application.BeforeNumbers">
+    <configuration name="BeforeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.BeforeNumbers" />
+      <module name="JavaProgramsgfg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionEaxmple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.FunctionEaxmple" />
+      <module name="JavaProgramsgfg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LambdaExamples.LambdaExample" />
       <module name="JavaProgramsgfg" />
@@ -98,6 +117,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeforeNumbers" />
+        <item itemvalue="Application.FunctionEaxmple" />
         <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.StreamClass" />
@@ -120,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687493740632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1687542826371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687542826371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
