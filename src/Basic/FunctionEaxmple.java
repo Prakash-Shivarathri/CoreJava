@@ -1,5 +1,11 @@
 package Basic;
 
+// Application of Function
+//-> Avoid code redundancy and Ease Maintenance..
+//-> make code modular.. takeinput , processdata, producoutput
+//-> Abstraction(for example, in library functions we do not have to worry about internal working..
+//->Aoid variable name collisions..
+
 public class FunctionEaxmple {
     public static void main(String[] args){
 //        System.out.println("Before the function...");

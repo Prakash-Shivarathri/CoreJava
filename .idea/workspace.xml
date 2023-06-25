@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57c8d0b-8b96-476c-bfd6-7692852e38dd" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Basic/BeforeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/FunctionEaxmple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ClassAndObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/CountEvenAndOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/DecimalFormats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/NewLineOutPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ThisReferrence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/FunctionEaxmple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/FunctionEaxmple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +55,9 @@
       <recent name="StreamsExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BeforeNumbers">
-    <configuration name="BeforeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.BeforeNumbers" />
+  <component name="RunManager" selected="Application.ThisReferrence">
+    <configuration name="ClassAndObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.ClassAndObject" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionEaxmple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.FunctionEaxmple" />
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Constructor" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaExamples.LambdaExample" />
+    <configuration name="CountEvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.CountEvenAndOdd" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LambdaExamples.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsExamples.StreamClass" />
+    <configuration name="DecimalFormats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.DecimalFormats" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamsExamples.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Threads.ThreadDemo" />
+    <configuration name="ThisReferrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.ThisReferrence" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Threads.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeforeNumbers" />
-        <item itemvalue="Application.FunctionEaxmple" />
-        <item itemvalue="Application.ThreadDemo" />
-        <item itemvalue="Application.LambdaExample" />
-        <item itemvalue="Application.StreamClass" />
+        <item itemvalue="Application.ThisReferrence" />
+        <item itemvalue="Application.Constructor" />
+        <item itemvalue="Application.ClassAndObject" />
+        <item itemvalue="Application.CountEvenAndOdd" />
+        <item itemvalue="Application.DecimalFormats" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687542826371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit">
+      <created>1687627658791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687627658791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
