@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57c8d0b-8b96-476c-bfd6-7692852e38dd" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Basic/ClassAndObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/CountEvenAndOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/DecimalFormats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/NewLineOutPut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/ThisReferrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/MultiDemArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/StaticMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalKeyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/FunctionEaxmple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/FunctionEaxmple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +55,9 @@
       <recent name="StreamsExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThisReferrence">
-    <configuration name="ClassAndObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.ClassAndObject" />
+  <component name="RunManager" selected="Application.LinearSearch">
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.ExceptionDemo" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Constructor" />
+    <configuration name="FinalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalKeyword" />
+      <module name="JavaProgramsgfg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.LinearSearch" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountEvenAndOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.CountEvenAndOdd" />
+    <configuration name="MultiDemArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.MultiDemArray" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -95,21 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalFormats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.DecimalFormats" />
-      <module name="JavaProgramsgfg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThisReferrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.ThisReferrence" />
+    <configuration name="StaticMember" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.StaticMember" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThisReferrence" />
-        <item itemvalue="Application.Constructor" />
-        <item itemvalue="Application.ClassAndObject" />
-        <item itemvalue="Application.CountEvenAndOdd" />
-        <item itemvalue="Application.DecimalFormats" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.MultiDemArray" />
+        <item itemvalue="Application.ExceptionDemo" />
+        <item itemvalue="Application.FinalKeyword" />
+        <item itemvalue="Application.StaticMember" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687627658791</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1687673391001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687673391001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
