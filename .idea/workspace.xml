@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57c8d0b-8b96-476c-bfd6-7692852e38dd" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedhashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Mapinterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringBuilderAndStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +50,9 @@
       <recent name="StreamsExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mapinterfaces">
+  <component name="RunManager" selected="Application.StringBuilderAndStringBuffer">
     <configuration name="IntersectionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.IntersectionProblem" />
-      <module name="JavaProgramsgfg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedHashSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.LinkedHashSets" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="distinctelements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.distinctelements" />
+    <configuration name="StringBuilderAndStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringBuilderAndStringBuffer" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.StringExamples" />
+      <module name="JavaProgramsgfg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderAndStringBuffer" />
+        <item itemvalue="Application.StringExamples" />
         <item itemvalue="Application.Mapinterfaces" />
         <item itemvalue="Application.IntersectionProblem" />
         <item itemvalue="Application.PrintRepeatingElements" />
-        <item itemvalue="Application.distinctelements" />
-        <item itemvalue="Application.LinkedHashSets" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687865282834</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit">
+      <created>1687869883770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687869883770</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
