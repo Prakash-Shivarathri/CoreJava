@@ -15,24 +15,24 @@ public class StringExamples {
 //        System.out.println(str.substring(2,5));
 
         //creating two string literals
-        String str1 = "geeksforgeeks";
-        String str2 = "for";
-
-        // return the 1st occurence of s2 in s1 after index 1
-        System.out.println(str1.indexOf(str2));// it only return the -1 and 0
-        int result = str1.compareTo(str2);
-        if(result==0)
-            System.out.println("Same");
-        else if (result>0) {
-            System.out.println("Str2 is greater");
-        } else if (result<0) {
-          System.out.println("str1 is smaller");
-        }
+//        String str1 = "geeksforgeeks";
+//        String str2 = "for";
+//
+//        // return the 1st occurence of s2 in s1 after index 1
+//        System.out.println(str1.indexOf(str2));// it only return the -1 and 0
+//        int result = str1.compareTo(str2);
+//        if(result==0)
+//            System.out.println("Same");
+//        else if (result>0) {
+//            System.out.println("Str2 is greater");
+//        } else if (result<0) {
+//          System.out.println("str1 is smaller");
+//        }
         // Whether s2 equal to s1
-        System.out.println(str1.equals(str2));
+       // System.out.println(str1.equals(str2));
         // Whether s2 is present in s1 or not
         // true
-        System.out.println(str1.contains(str2));
+        // System.out.println(str1.contains(str2));
 
 
         // Creating two string literals
@@ -59,21 +59,25 @@ public class StringExamples {
 
 
         // Creating two string literals
-        String s3 = "geeks";
-        String s4 = s3;
+//        String s3 = "geeks";
+//        String s4 = s3;
 
         // Creates a new object "geeksforgeeks"
         // Now s3 points to this new string
-        s3 = s3 + "forgeeks";
+       // s3 = s3 + "forgeeks";
         // or
         // s3 = s3.concat("forgeeks");
 
-        System.out.println(s3);
+       // System.out.println(s3);
 
         // Since s4 is still pointing
         // to initial "geeks"
         // and s3 is pointing to a new
         // object "geeksforgeeks"
-        System.out.println(s3 == s4);
+        //System.out.println(s3 == s4);
+
+        String s1 ="geeksforgeeks";
+        String s2=s1+s1;
+        System.out.println(s2);
     }
 }

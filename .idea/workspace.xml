@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57c8d0b-8b96-476c-bfd6-7692852e38dd" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/Strings/PangramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/SearchingPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/digitAfterDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ArrayStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/addtition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAlgo/selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/ExecutorServicreDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/StringBuilderAndStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/StringBuilderAndStringBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arraylisted/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arraylisted/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/BeforeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/BeforeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/distinctelements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/distinctelements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/StringExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/StringExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/MyPC"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MyPC&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Basic" />
       <recent name="StreamsExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.digitAfterDecimal">
-    <configuration name="PangramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.PangramCheck" />
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="9abd1fc8:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.BeforeNumbers">
+    <configuration name="BeforeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Basic.BeforeNumbers" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,25 +87,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchingPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.SearchingPattern" />
+    <configuration name="ExecutorServicreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Threads.ExecutorServicreDemo" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBuilderAndStringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.StringBuilderAndStringBuffer" />
-      <module name="JavaProgramsgfg" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +103,8 @@
       </method>
     </configuration>
     <configuration name="StringExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Strings.StringExamples" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
@@ -106,12 +117,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="digitAfterDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.digitAfterDecimal" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Arraylisted.Test" />
       <module name="JavaProgramsgfg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Arraylisted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +132,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Basic.main" />
+      <module name="JavaProgramsgfg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\MyPC\IdeaProjects\JavaProgramsgfg" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.BeforeNumbers" />
+      <item itemvalue="Application.ExecutorServicreDemo" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.StringExamples" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.digitAfterDecimal" />
-        <item itemvalue="Application.SearchingPattern" />
-        <item itemvalue="Application.PangramCheck" />
-        <item itemvalue="Application.StringBuilderAndStringBuffer" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.BeforeNumbers" />
+        <item itemvalue="Application.ExecutorServicreDemo" />
         <item itemvalue="Application.StringExamples" />
       </list>
     </recent_temporary>
@@ -194,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687889257938</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit">
+      <created>1688019836717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688019836717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit">
+      <created>1688019873098</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688019873098</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
