@@ -47,7 +47,7 @@ public class CircularQueue {
         if(isempty()){
             System.out.println("Queue is empty");
         }
-        int i = front
+        int i = front;
        do{
            System.out.print(data[i]+"<-");
            i++;
